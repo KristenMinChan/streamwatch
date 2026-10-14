@@ -1,0 +1,10 @@
+.DS_Store
+node_modules/
+output/
+__pycache__/
+*.pyc
+
+# a configured copy of the watcher must never be committed
+Config.gs
+*.local.gs
+config.local.*
